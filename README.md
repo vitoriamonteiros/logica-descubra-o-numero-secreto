@@ -2,7 +2,9 @@
 
 ![header](https://github.com/vitoriamonteiros/logica-descubra-o-numero-secreto/assets/115194388/42321448-ca72-4033-8346-4fc819ed0698)
 
-Este pequeo projeto foi desenvolvido como parte de uma revisão dos conceitos iniciais de lógica de programação com JavaScript. Trata-se de um jogo simples de adivinhação de números, onde o objetivo é adivinhar um número secreto entre 1 e 1000. Utiliza a API de voz ResponsiveVoice para fornecer feedback sonoro durante o jogo.
+Este pequeno projeto foi desenvolvido como parte de uma revisão dos conceitos iniciais de lógica de programação com JavaScript. Trata-se de um jogo simples de adivinhação de números, onde o objetivo é adivinhar um número secreto entre 1 e 1000. Utiliza a API de voz ResponsiveVoice para fornecer feedback sonoro durante o jogo.
+
+https://github.com/vitoriamonteiros/vitoriamonteiros/assets/115194388/8a01f7a0-2e3a-4ce6-b71c-c7fac102b7dd
 
 ## Demonstração 
 [-](https://github.com/vitoriamonteiros/logica-descubra-o-numero-secreto/assets/115194388/4e8b363e-13b5-4892-91d5-8c13cd0f1c17)
